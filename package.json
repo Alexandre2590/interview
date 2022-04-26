@@ -1,0 +1,26 @@
+{
+  "name": "tjcgroup-tech-interview-main",
+  "version": "1.0.0",
+  "description": "## Expected Work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "express-basic-auth": "^1.2.1",
+    "express-es6-template-engine": "^2.2.3",
+    "express-session": "^1.17.2",
+    "html": "^1.0.0",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  }
+}
